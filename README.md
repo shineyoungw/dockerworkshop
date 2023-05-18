@@ -1,0 +1,2 @@
+# dockerworkshop
+bitnami/wordpress
