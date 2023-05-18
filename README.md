@@ -3,5 +3,5 @@
 
 Bitnami/WordPress Dockerfile
 ```
-docker build -t bitnami/wordpress:local .
+docker build -t shineyoung/wordpress:v1 .
 ```
